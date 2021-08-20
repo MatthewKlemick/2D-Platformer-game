@@ -1,0 +1,444 @@
+fileFormatVersion: 2
+guid: dba6a4edc07113c43a31ff737c734b37
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7200215344503834176
+    second: M484OrangeDragon_0
+  - first:
+      213: 8282869644310948119
+    second: M484OrangeDragon_1
+  - first:
+      213: -218715421192586886
+    second: M484OrangeDragon_2
+  - first:
+      213: -7478135792799930934
+    second: M484OrangeDragon_3
+  - first:
+      213: -2029906750701594152
+    second: M484OrangeDragon_4
+  - first:
+      213: -6143191376596846549
+    second: M484OrangeDragon_5
+  - first:
+      213: 8500155461031868465
+    second: M484OrangeDragon_6
+  - first:
+      213: 5517074436540422133
+    second: M484OrangeDragon_7
+  - first:
+      213: -1882262315040580172
+    second: M484OrangeDragon_8
+  - first:
+      213: 3362135402244070692
+    second: M484OrangeDragon_9
+  - first:
+      213: -800354692020273353
+    second: M484OrangeDragon_10
+  - first:
+      213: 3080287051883431082
+    second: M484OrangeDragon_11
+  - first:
+      213: -8782393512046420803
+    second: M484OrangeDragon_12
+  - first:
+      213: -4949629003218306290
+    second: M484OrangeDragon_13
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: M484OrangeDragon_0
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 564
+        width: 215
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 046c77b15bd4ce360800000000000000
+      internalID: 7200215344503834176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M484OrangeDragon_1
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 606
+        width: 208
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71925069e0aa2f270800000000000000
+      internalID: 8282869644310948119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M484OrangeDragon_2
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 572
+        width: 215
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a797ae4bb77f6fcf0800000000000000
+      internalID: -218715421192586886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M484OrangeDragon_3
+      rect:
+        serializedVersion: 2
+        x: 748
+        y: 563
+        width: 215
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac5a6080e13583890800000000000000
+      internalID: -7478135792799930934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M484OrangeDragon_4
+      rect:
+        serializedVersion: 2
+        x: 980
+        y: 555
+        width: 215
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d9934da09254d3e0800000000000000
+      internalID: -2029906750701594152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M484OrangeDragon_5
+      rect:
+        serializedVersion: 2
+        x: 1217
+        y: 536
+        width: 218
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b28b3b2bdfffebaa0800000000000000
+      internalID: -6143191376596846549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M484OrangeDragon_6
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 524
+        width: 169
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 138b6662b5e96f570800000000000000
+      internalID: 8500155461031868465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M484OrangeDragon_7
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 370
+        width: 111
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f7516528f5909c40800000000000000
+      internalID: 5517074436540422133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M484OrangeDragon_8
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 322
+        width: 140
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bdd6e9a56cd0e5e0800000000000000
+      internalID: -1882262315040580172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M484OrangeDragon_9
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 323
+        width: 127
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42dd581c554b8ae20800000000000000
+      internalID: 3362135402244070692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M484OrangeDragon_10
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 327
+        width: 101
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73f70d7e5a194e4f0800000000000000
+      internalID: -800354692020273353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M484OrangeDragon_11
+      rect:
+        serializedVersion: 2
+        x: 829
+        y: 327
+        width: 101
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa44fbde0c06fba20800000000000000
+      internalID: 3080287051883431082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M484OrangeDragon_12
+      rect:
+        serializedVersion: 2
+        x: 970
+        y: 81
+        width: 467
+        height: 369
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbc17c4c1abae1680800000000000000
+      internalID: -8782393512046420803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M484OrangeDragon_13
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 41
+        width: 527
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0bb33555a26f4bb0800000000000000
+      internalID: -4949629003218306290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
